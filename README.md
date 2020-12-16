@@ -1,5 +1,4 @@
 # Custom Typora Settings
 
-- custom default themes
-   - night
- - custom keybindings
+- custom typora shortcuts
+- custom typora default theme [night]
