@@ -29,7 +29,7 @@
   }
 ```
 
-## Custom Shortcut Keys
+## Custom Typora Shortcut Keys
 
 ### 1.File
 
