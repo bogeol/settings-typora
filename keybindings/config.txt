@@ -1,0 +1,19 @@
+"keyBinding": {
+    "Code": "Ctrl+K",
+    "Task List": "Ctrl+T",
+    "Insert Table": "Ctrl+Shift+T",
+    "Reopen Closed File": "",
+    "HyperLink": "Ctrl+L",
+    "Select Line/Sentence": "",
+    "Quote": "Ctrl+Q",
+    "Ordered List": "Ctrl+[",
+    "Indent": "",
+    "Unordered List": "Ctrl+]",
+    "Outdent": "",
+    "Toggle Sidebar": "Ctrl+Shift+;",
+    "Open Folder...": "Ctrl+Shift+O",
+    "Preference": "Ctrl+P",
+    "Open Quickly...": "",
+    "Source Code Mode": "Ctrl+Shift+'",
+    "Strike": "Ctrl+E"
+  }
